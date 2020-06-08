@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="57464" started-at="2019-11-20T18:52:02 CET" finished-at="2019-11-20T18:53:00 CET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="57464" started-at="2019-11-20T18:52:02 CET" finished-at="2019-11-20T18:53:00 CET">
+      <class name="com.norw.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.norw.qa.testcases.LoginPageTest@6321e813]" name="setUp" is-config="true" duration-ms="14704" started-at="2019-11-20T18:52:02 CET" finished-at="2019-11-20T18:52:17 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkUsrname()[pri:0, instance:com.norw.qa.testcases.LoginPageTest@6321e813]" name="checkUsrname" duration-ms="348" started-at="2019-11-20T18:52:17 CET" finished-at="2019-11-20T18:52:17 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkUsrname -->
+      </class> <!-- com.norw.qa.testcases.LoginPageTest -->
+      <class name="com.norw.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.norw.qa.testcases.HomePageTest@79be0360]" name="setUp" is-config="true" duration-ms="13515" started-at="2019-11-20T18:52:17 CET" finished-at="2019-11-20T18:52:31 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkLogoTest()[pri:0, instance:com.norw.qa.testcases.HomePageTest@79be0360]" name="checkLogoTest" duration-ms="42" started-at="2019-11-20T18:52:31 CET" finished-at="2019-11-20T18:52:31 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.norw.qa.testcases.HomePageTest@79be0360]" name="tearDown" is-config="true" duration-ms="789" started-at="2019-11-20T18:52:31 CET" finished-at="2019-11-20T18:52:32 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.norw.qa.testcases.HomePageTest@79be0360]" name="setUp" is-config="true" duration-ms="12000" started-at="2019-11-20T18:52:32 CET" finished-at="2019-11-20T18:52:44 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="homePageTitleTest()[pri:0, instance:com.norw.qa.testcases.HomePageTest@79be0360]" name="homePageTitleTest" duration-ms="15" started-at="2019-11-20T18:52:44 CET" finished-at="2019-11-20T18:52:44 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.norw.qa.testcases.HomePageTest@79be0360]" name="tearDown" is-config="true" duration-ms="660" started-at="2019-11-20T18:52:44 CET" finished-at="2019-11-20T18:52:44 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.norw.qa.testcases.HomePageTest@79be0360]" name="setUp" is-config="true" duration-ms="13548" started-at="2019-11-20T18:52:44 CET" finished-at="2019-11-20T18:52:58 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginLnkTest()[pri:0, instance:com.norw.qa.testcases.HomePageTest@79be0360]" name="loginLnkTest" duration-ms="1115" started-at="2019-11-20T18:52:58 CET" finished-at="2019-11-20T18:52:59 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginLnkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.norw.qa.testcases.HomePageTest@79be0360]" name="tearDown" is-config="true" duration-ms="689" started-at="2019-11-20T18:52:59 CET" finished-at="2019-11-20T18:53:00 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.norw.qa.testcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

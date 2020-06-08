@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="138924" started-at="2019-11-21T18:56:18 CET" finished-at="2019-11-21T18:58:37 CET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="138924" started-at="2019-11-21T18:56:18 CET" finished-at="2019-11-21T18:58:37 CET">
+      <class name="com.norw.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.norw.qa.testcases.LoginPageTest@6737fd8f]" name="setUp" is-config="true" duration-ms="13250" started-at="2019-11-21T18:56:18 CET" finished-at="2019-11-21T18:56:32 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkLogBtn()[pri:0, instance:com.norw.qa.testcases.LoginPageTest@6737fd8f]" name="checkLogBtn" duration-ms="70" started-at="2019-11-21T18:56:32 CET" finished-at="2019-11-21T18:56:32 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogBtn -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.norw.qa.testcases.LoginPageTest@6737fd8f]" name="tearDown" is-config="true" duration-ms="788" started-at="2019-11-21T18:56:32 CET" finished-at="2019-11-21T18:56:33 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.norw.qa.testcases.LoginPageTest@6737fd8f]" name="setUp" is-config="true" duration-ms="11937" started-at="2019-11-21T18:56:33 CET" finished-at="2019-11-21T18:56:45 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkPass()[pri:0, instance:com.norw.qa.testcases.LoginPageTest@6737fd8f]" name="checkPass" duration-ms="69" started-at="2019-11-21T18:56:45 CET" finished-at="2019-11-21T18:56:45 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPass -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.norw.qa.testcases.LoginPageTest@6737fd8f]" name="tearDown" is-config="true" duration-ms="645" started-at="2019-11-21T18:56:45 CET" finished-at="2019-11-21T18:56:45 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.norw.qa.testcases.LoginPageTest@6737fd8f]" name="setUp" is-config="true" duration-ms="15300" started-at="2019-11-21T18:56:45 CET" finished-at="2019-11-21T18:57:01 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkUsr()[pri:0, instance:com.norw.qa.testcases.LoginPageTest@6737fd8f]" name="checkUsr" duration-ms="34" started-at="2019-11-21T18:57:01 CET" finished-at="2019-11-21T18:57:01 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkUsr -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.norw.qa.testcases.LoginPageTest@6737fd8f]" name="tearDown" is-config="true" duration-ms="641" started-at="2019-11-21T18:57:01 CET" finished-at="2019-11-21T18:57:01 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.norw.qa.testcases.LoginPageTest -->
+      <class name="com.norw.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.norw.qa.testcases.HomePageTest@72b6cbcc]" name="setUp" is-config="true" duration-ms="13341" started-at="2019-11-21T18:57:01 CET" finished-at="2019-11-21T18:57:15 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkLogoTest()[pri:0, instance:com.norw.qa.testcases.HomePageTest@72b6cbcc]" name="checkLogoTest" duration-ms="34" started-at="2019-11-21T18:57:15 CET" finished-at="2019-11-21T18:57:15 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.norw.qa.testcases.HomePageTest@72b6cbcc]" name="tearDown" is-config="true" duration-ms="634" started-at="2019-11-21T18:57:15 CET" finished-at="2019-11-21T18:57:15 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.norw.qa.testcases.HomePageTest@72b6cbcc]" name="setUp" is-config="true" duration-ms="11327" started-at="2019-11-21T18:57:15 CET" finished-at="2019-11-21T18:57:27 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="homePageTitleTest()[pri:0, instance:com.norw.qa.testcases.HomePageTest@72b6cbcc]" name="homePageTitleTest" duration-ms="8" started-at="2019-11-21T18:57:27 CET" finished-at="2019-11-21T18:57:27 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.norw.qa.testcases.HomePageTest@72b6cbcc]" name="tearDown" is-config="true" duration-ms="646" started-at="2019-11-21T18:57:27 CET" finished-at="2019-11-21T18:57:27 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.norw.qa.testcases.HomePageTest@72b6cbcc]" name="setUp" is-config="true" duration-ms="12160" started-at="2019-11-21T18:57:27 CET" finished-at="2019-11-21T18:57:39 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginLnkTest()[pri:0, instance:com.norw.qa.testcases.HomePageTest@72b6cbcc]" name="loginLnkTest" duration-ms="899" started-at="2019-11-21T18:57:39 CET" finished-at="2019-11-21T18:57:40 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginLnkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.norw.qa.testcases.HomePageTest@72b6cbcc]" name="tearDown" is-config="true" duration-ms="643" started-at="2019-11-21T18:57:40 CET" finished-at="2019-11-21T18:57:41 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.norw.qa.testcases.HomePageTest -->
+      <class name="com.norw.qa.testcases.ChooseFlightDestDatesPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.norw.qa.testcases.ChooseFlightDestDatesPageTest@a7e666]" name="setUp" is-config="true" duration-ms="29132" started-at="2019-11-21T18:57:41 CET" finished-at="2019-11-21T18:58:10 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateSokTab()[pri:0, instance:com.norw.qa.testcases.ChooseFlightDestDatesPageTest@a7e666]" name="validateSokTab" duration-ms="129" started-at="2019-11-21T18:58:10 CET" finished-at="2019-11-21T18:58:10 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSokTab -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.norw.qa.testcases.ChooseFlightDestDatesPageTest@a7e666]" name="tearDown" is-config="true" duration-ms="636" started-at="2019-11-21T18:58:10 CET" finished-at="2019-11-21T18:58:11 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.norw.qa.testcases.ChooseFlightDestDatesPageTest@a7e666]" name="setUp" is-config="true" duration-ms="25916" started-at="2019-11-21T18:58:11 CET" finished-at="2019-11-21T18:58:37 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateUsrInCaps()[pri:0, instance:com.norw.qa.testcases.ChooseFlightDestDatesPageTest@a7e666]" name="validateUsrInCaps" duration-ms="2" started-at="2019-11-21T18:58:37 CET" finished-at="2019-11-21T18:58:37 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUsrInCaps -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.norw.qa.testcases.ChooseFlightDestDatesPageTest@a7e666]" name="tearDown" is-config="true" duration-ms="636" started-at="2019-11-21T18:58:37 CET" finished-at="2019-11-21T18:58:37 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.norw.qa.testcases.ChooseFlightDestDatesPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
